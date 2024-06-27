@@ -1,15 +1,3 @@
-Description: I recently completed a comprehensive project aimed at enhancing pizza sales performance through SQL analysis. 
-The project involved collecting, cleaning, and transforming sales data to uncover actionable insights. 
-Utilizing SQL techniques such as data extraction, joins, aggregations, subqueries, and window functions, I was able to:
-
-1. Determine the most popular pizza types and sizes.
-2. Identify peak sales periods and customer preferences.
-3. Compute key performance metrics like total sales and average order value.
-4. Improve inventory management to prevent stockouts and excess stock.
-
-The insights from this project helped refine sales strategies, improve operational efficiency, enhance customer satisfaction, 
-and boost profitability. This experience honed my SQL skills and my ability to leverage data for 
-strategic business decisions.
 
 ![1](https://github.com/Abhijogu3/MYSQL/assets/158252850/3da5ddb8-fc81-4212-b55e-d2e2c6a0906d)
 ![2](https://github.com/Abhijogu3/MYSQL/assets/158252850/59275f12-8b00-410b-88ef-5a03f2c6723c)
